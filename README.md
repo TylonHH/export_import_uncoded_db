@@ -1,7 +1,7 @@
 # PostgreSQL Datenbank-Umzug
 
-Diese Anleitung beschreibt, wie eine PostgreSQL-Datenbank von einem Server (z. B. [Netcup](https://www.netcup.com/de/?ref=280996) oder Railyway) zu einem neuen Ziel (z. B. [Netcup](https://www.netcup.com/de/?ref=280996)) migriert wird.  
-Die Verbindung erfolgt sicher über SSH-Tunneling, ohne Ports nach außen zu öffnen. Hier am Beispiel des Trading Bot von [uncoded](https://t.me/unCoded_bot?start=ref_1203406052).
+Diese Anleitung beschreibt, wie eine PostgreSQL-Datenbank von einem Server (z. B. [Netcup](https://www.netcup.com/de/?ref=280996)* oder Railyway) zu einem neuen Ziel (z. B. [Netcup](https://www.netcup.com/de/?ref=280996))* migriert wird.  
+Die Verbindung erfolgt sicher über SSH-Tunneling, ohne Ports nach außen zu öffnen. Hier am Beispiel des Trading Bot von [uncoded](https://t.me/unCoded_bot?start=ref_1203406052)*.
 
 ---
 
@@ -70,7 +70,7 @@ Jetzt läuft der Datenverkehr lokal über Port 5433 sicher zum Container.
 
 ## 3. Verbindung in pgAdmin einrichten
 
-### Quell-Server ([Netcup](https://www.netcup.com/de/?ref=280996) oder CapRover)
+### Quell-Server ([Netcup](https://www.netcup.com/de/?ref=280996)* oder CapRover)
 
 * **Host:** `localhost`
 * **Port:** `5433`
