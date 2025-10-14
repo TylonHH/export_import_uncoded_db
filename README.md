@@ -17,8 +17,8 @@ Halte Folgendes bereit, bevor du beginnst:
 - **Zugangsdaten zum Ziel-System**
   - Host, Port, Benutzer, Passwort
 - **Software lokal installiert**
-  - [PuTTY](https://www.putty.org/) oder PowerShell (für SSH)
-  - [pgAdmin](https://www.pgadmin.org/) (für Export und Import)
+  - [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html) oder PowerShell (für SSH)
+  - [pgAdmin](https://www.pgadmin.org/download/) (für Export und Import)
 - **Root- oder Admin-Passwort** des Servers
 - Optional: Admin-Zugang zu CapRover (falls Apps pausiert werden müssen)
 
